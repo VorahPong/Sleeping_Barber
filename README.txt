@@ -3,12 +3,17 @@ Developed by VorahPong, Mean
 Date 11/07/2024
 
 * Overview
-The purpose of this code is to demonstrate the use of binary semaphore and threads to simulate the barber problem.
+  This program was coded with C++ Xcode 16 on Mac.
 
-The sleeping barber problem is a classic inter-process communication and synchronization problem between multiple operating system processes. The problem is analogous to that of keeping a barber working when there are customers, resting when there are none, and doing so in an orderly manner.
+  The purpose of this code is to demonstrate the use of binary semaphore and threads to simulate the barber problem.
+
+  The sleeping barber problem is a classic inter-process communication and synchronization
+  problem between multiple operating system processes. The problem is analogous to that of 
+  keeping a barber working when there are customers, resting when there are none, and doing so in an orderly manner.
 
 * Features
-The two programs client and server allowed two computers to talk to each other. The server will automatically shutdown when client disconnected.
+  The two programs client and server allowed two computers to talk to each other. The server
+  will automatically shutdown when client disconnected.
 
 * Usage
 To compile this project, you must have these files:
@@ -25,7 +30,7 @@ How many barbers are working in the shop? : 1
 How many customers are coming today? : 2
 
 *************************
-* Barbar Shop is Open!! *
+* Barber Shop is Open!! *
 *************************
 
 
@@ -58,7 +63,7 @@ Customer number 2 left with a good haircut.
 No more customers for today!
 
 *************************
-* Barbar Shop is Close! *
+* Barber Shop is Close! *
 *************************
 
 Program ended with exit code: 0

@@ -1,0 +1,64 @@
+How many barbers are working in the shop? : 2
+
+How many customers are coming today? : 4
+
+How long will a haircut take in second? : 10
+
+How long a delay between each customers spawning in second? : 2
+
+Lastly, how many free seats in the waiting room for customers? : 1
+
+*************************
+* Barber Shop is Open!! *
+*************************
+
+
+Barber number 1 is going to sleep.
+
+Barber number 2 is going to sleep.
+
+Customer number 1 has entered.
+
+Barber number 1 is waking up.
+
+Barber number 1 is cutting hair.
+
+Customer number 1 is getting a haircut.
+
+Customer number 2 has entered.
+
+Barber number 2 is waking up.
+
+Barber number 2 is cutting hair.
+
+Customer number 2 is getting a haircut.
+
+Customer number 3 has entered.
+
+Customer number 4 has entered.
+
+Customer number 4 leave without haircut.
+
+Customer number 1 left with a good haircut.
+
+Barber number 1 has finished cutting hair.
+
+Barber number 1 is cutting hair.
+
+Customer number 3 is getting a haircut.
+
+Customer number 2 left with a good haircut.
+
+Barber number 2 has finished cutting hair.
+
+Barber number 2 is going to sleep.
+
+Customer number 3 left with a good haircut.
+
+No more customers for today!
+
+*************************
+* Barber Shop is Close! *
+*************************
+
+Program ended with exit code: 0
